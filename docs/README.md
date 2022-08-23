@@ -34,8 +34,8 @@ YouTube [Prolog](https://www.youtube.com/c/PrologYaz%C4%B1l%C4%B1m) kanalından 
 
 * Abdullah Arıcı
 * Abdurrahman Narin
-* Cenk Ezircan
 * Erol Arı
+* Kaan Nart
 * Murat Vezir
 * Oğuzhan Apaydın
 * Önder Yücel
