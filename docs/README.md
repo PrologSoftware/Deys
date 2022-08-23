@@ -6,14 +6,13 @@ sorunlara çözüm olması için geliştirilmiş yönetim otomasyonudur.
 ## Kurulum
 
 Kurulum Adımları Burada Tanımlanmıştır.
-See the [Kurulum](setup.md) guide for more details.
+Daha fazlasını görmek için [Kurulum](setup.md) yazımıza gidebilirsiniz.
 
 
 ## Modüller
 
 - [Satın Alma](purchase.md)
 - [Satın Alma İade](purchasereturn.md)
-- [Satış](sales.md)  Kullanımdan Kalkacak 
 - [Hızlı Satış ](quicksales.md)
 - [Satış İade ](saleseturn.md)
 - [Sipariş Toplama ](ordercollect.md)
