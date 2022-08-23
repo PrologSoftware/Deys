@@ -22,8 +22,8 @@ Daha fazlasını görmek için [Kurulum](setup.md) yazımıza gidebilirsiniz.
 - [Üretim](production.md)
 - [Hızlı Üretim](quickproduction.md)
 - [Planlı Üretim](plannedproduction.md)
-- [Sayım Emri](coutingorder.md)
-- [Emanet Sevk Emri](shippingorderfromescrow.md)
+- [Sayım](coutingorder.md)
+- [Emanet Sevk](shippingorderfromescrow.md)
 ## Video Yardım
 
 YouTube [Prolog](https://www.youtube.com/c/PrologYaz%C4%B1l%C4%B1m) kanalından video içeriklerimize ulaşabilirsiniz.
