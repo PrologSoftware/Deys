@@ -19,9 +19,9 @@ Daha fazlasını görmek için [Kurulum](setup.md) yazımıza gidebilirsiniz.
 - [Ambar Transfer](warehousetrn.md)
 - [Fire](waste.md)
 - [Sarf](consumption.md)
-- [Production](production.md)
-- [Quick Production](quickproduction.md)
-- [Planned Production](plannedproduction.md)
+- [Üretim](production.md)
+- [Hızlı Üretim](quickproduction.md)
+- [Planlı Üretim](plannedproduction.md)
 - [Sayım Emri](coutingorder.md)
 - [Emanet Sevk Emri](shippingorderfromescrow.md)
 ## Video Yardım
