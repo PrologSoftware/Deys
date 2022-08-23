@@ -9,7 +9,7 @@ işlemlere başlamadan önce veritabanı ve ürün dosyaları yedeğinin alınma
 
    Kurulum dosyaları aşağıdadır. Kurulum yapmak istediğiniz versiyonu indiriniz. 
    
-?> İndirilen rar dosyasını Logo Setinin kurulu olduğu dizin altınada arşivden çıkartılıp klasör ismin Deys olarak değiştirilir Örn : C:\LBS\TigerEnt3 dizini altında kurulum yapılmış set için oluşturulacak dizin C:\LBS\TigerEnt3\Deys olacaktar ve rar içerisindeki dosyaları buraya kopyalanmalıdır.
+> İndirilen rar dosyasını Logo Setinin kurulu olduğu dizin altınada arşivden çıkartılıp klasör ismin Deys olarak değiştirilir Örn : C:\LBS\TigerEnt3 dizini altında kurulum yapılmış set için oluşturulacak dizin C:\LBS\TigerEnt3\Deys olacaktar ve rar içerisindeki dosyaları buraya kopyalanmalıdır.
    
    
 
@@ -35,10 +35,10 @@ Config dosyası (DeysConfiguration.config) oluşmuş olur. Dosya konumundan Deys
 	
 ## ISS Kurulumu ve RestServis Eklenmesi
 
-ISS Kurulum işlemleri  
+> ISS Kurulum işlemleri  
 
 
-Rest Servis Kurulum işlemleri
+> Rest Servis Kurulum işlemleri
 
 
 Deys klasöründen Deys.System.exe uygulamasını çalıştırıp Bağlantı Bilgisini Güncellemeye tıklıyoruz.
